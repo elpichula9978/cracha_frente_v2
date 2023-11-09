@@ -153,6 +153,7 @@ background-color: #1a702c;
     #badgeName{
 
         margin-top: 10px;
+        text-transofrm: capitalize;
 
     }
 
